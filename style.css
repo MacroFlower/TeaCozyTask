@@ -63,7 +63,7 @@ header a:hover {
     justify-content: center;
     align-items: center;
     margin: 70px 40px 10px 40px;  
-    background-image: url(./resourses/img-mission-background.jpg);
+    background-image: url(img-mission-background.jpg);
     background-repeat: no-repeat;
     background-position: center;
     height: 700px;
@@ -108,7 +108,7 @@ header a:hover {
 
 /* 3.section */
 .thirdSection{
-    background: url(./resourses/img-locations-background.jpg);
+    background: url(img-locations-background.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size:100%;
